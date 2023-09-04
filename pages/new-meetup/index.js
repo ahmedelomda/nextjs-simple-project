@@ -1,5 +1,5 @@
 import { Fragment } from 'react';
-import Head from 'next/Head';
+import Head from 'next/head';
 
 import { useRouter } from 'next/router'
 import NewMeetupForm from '../../components/meetups/NewMeetupForm.js';
